@@ -1,6 +1,8 @@
 # weather_app
 
 A new Flutter project.
+This api key unuseless because you have to create a new api key.
+The site I use is openweather.com
 
 ## Getting Started
 
